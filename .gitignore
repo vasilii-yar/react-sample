@@ -1,0 +1,12 @@
+HELP.md
+target/
+node_modules/
+.project
+.classpath
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### VS Code ###
+.vscode/
+.sts4-cache/

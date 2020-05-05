@@ -1,0 +1,41 @@
+#select-label {
+    margin-top: 5px;
+}
+#selecting-row {
+    background-color: #80d8ff;
+}
+.element {
+    margin-top: 5px;
+}
+.grid-row {
+    background-color: #4db6ac;
+}
+.application-header {
+    color: #00b8e6;
+    font-size: 14pt;
+}
+
+.grid-toolbar {
+    height: 40px;
+}
+
+.grid-toolbar-body {
+    padding: 0px;
+}
+
+.select-label {
+    text-align: right;
+    font-size: 12pt;
+    color: #0b51c5;
+}
+
+.filter-header {
+    color: #0b51c5;
+}
+
+.filter-input {
+    height: 10px;
+}
+#selecting-row {
+    background-color: #80d8ff;
+}
